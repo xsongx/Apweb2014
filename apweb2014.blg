@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: apweb2014.aux
+The style file: splncs.bst
+Database file #1: apweref.bib
+I was expecting a `,' or a `}'---line 187 of file apweref.bib
+ : 
+ : @inproceedings{calais2011bias,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 262 of file apweref.bib
+ : @inproceedings{jiang2011target
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 270 of file apweref.bib
+ : @inproceedings{tan2011user
+ :                           ,
+I'm skipping whatever remains of this entry
+You've used 30 entries,
+            2087 wiz_defined-function locations,
+            674 strings with 9877 characters,
+and the built_in function-call counts, 11035 in all, are:
+= -- 1177
+> -- 356
+< -- 27
++ -- 129
+- -- 99
+* -- 724
+:= -- 1404
+add.period$ -- 36
+call.type$ -- 30
+change.case$ -- 30
+chr.to.int$ -- 0
+cite$ -- 30
+duplicate$ -- 592
+empty$ -- 1076
+format.name$ -- 99
+if$ -- 2770
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 30
+newline$ -- 156
+num.names$ -- 32
+pop$ -- 133
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 412
+stack$ -- 0
+substring$ -- 810
+swap$ -- 322
+text.length$ -- 27
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 109
+width$ -- 32
+write$ -- 362
+(There were 3 error messages)
