@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.2.24)  28 MAR 2014 15:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.2.24)  28 MAR 2014 16:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -558,40 +558,33 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 File: procedure.pdf Graphic file (type pdf)
  <use procedure.pdf>
 Package pdftex.def Info: procedure.pdf used on input line 109.
-(pdftex.def)             Requested size: 303.538pt x 180.6718pt.
+(pdftex.def)             Requested size: 303.538pt x 158.98805pt.
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
  [2pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.124 
-       <./procedure.pdf>]
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
- <ego.pdf, id=147, 569.12625pt x 204.765pt>
+l.130 
+       <./procedure.pdf>] <ego.pdf, id=149, 569.12625pt x 204.765pt>
 File: ego.pdf Graphic file (type pdf)
 
 <use ego.pdf>
 Package pdftex.def Info: ego.pdf used on input line 141.
 (pdftex.def)             Requested size: 274.63643pt x 86.72557pt.
- [3]
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2
+ [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.160 \begin{definition}[Subjectivity Model]
-                                             <./ego.pdf>]
+l.147 
+       <./ego.pdf>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [4]
 Overfull \hbox (14.60367pt too wide) in paragraph at lines 169--170
 \OT1/ptm/m/it/10 tri-bu-tion over sen-ti-ment va-lence space $\OML/ztmcm/m/it/1
 0 S$\OT1/ptm/m/it/10 , $\OML/ztmcm/m/it/10 O[] \OT1/ztmcm/m/n/10 = \OMS/ztmcm/m
@@ -603,93 +596,75 @@ ct to $[][] \OML/ztmcm/m/it/10 d[] [] \OT1/ztmcm/m/n/10 =
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
-[5] [6]
+[5]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 238.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-[8] <example.pdf, id=274, 463.7325pt x 384.43625pt>
+put line 237.
+ [6] [7] <example.pdf, id=269, 463.7325pt x 384.43625pt>
 File: example.pdf Graphic file (type pdf)
  <use example.pdf>
-Package pdftex.def Info: example.pdf used on input line 313.
+Package pdftex.def Info: example.pdf used on input line 303.
 (pdftex.def)             Requested size: 173.44638pt x 130.09065pt.
 
-<fig1.pdf, id=276, 270.00874pt x 150.5625pt>
+<fig1.pdf, id=271, 270.00874pt x 150.5625pt>
 File: fig1.pdf Graphic file (type pdf)
  <use fig1.pdf>
-Package pdftex.def Info: fig1.pdf used on input line 320.
-(pdftex.def)             Requested size: 274.6307pt x 130.09921pt.
- [9pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}
+Package pdftex.def Info: fig1.pdf used on input line 310.
+(pdftex.def)             Requested size: 274.6307pt x 108.4095pt.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.326 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-1.3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.326 
-       <./example.pdf>]
+l.316 
+      ]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
-Missing character: There is no ï in font ptmr7t!
-Missing character: There is no ¼ in font ptmr7t!
-Missing character: There is no Œ in font ptmr7t!
-
-
-LaTeX Warning: Reference `' on page 10 undefined on input line 330.
-
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.1.4
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.1.3
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.348 
-       <./fig1.pdf>]
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
- (./apweb2014.bbl [11pdfTeX warning (ext4): destination with the same identifie
-r (name{table.1.2}) has been already used, duplicate ignored
+l.319 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+1.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1 \begin{thebibliography}{10}
-                               ]
+l.319 
+       <./example.pdf> <./fig1.pdf
+
+pdfTeX warning: pdflatex (file ./fig1.pdf): PDF inclusion: multiple pdfs with p
+age group included in a single page
+>] [10pdfTeX warning (ext4): destination with the same identifier (name{table.1
+.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.346 
+      ] (./apweb2014.bbl
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
- [12])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
+ [11])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
  (./apweb2014.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 349.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 349.
 Package rerunfilecheck Info: File `apweb2014.out' has not changed.
-(rerunfilecheck)             Checksum: DF9AF458E5129AE9E20324A1151BF26D;1107.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 358.
+(rerunfilecheck)             Checksum: 0FD3D6C6E5851362B846CA8ECDEA95DF;1114.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 349.
  ) 
 Here is how much of TeX's memory you used:
- 7079 strings out of 493307
- 99990 string characters out of 6139905
- 198626 words of memory out of 5000000
- 10286 multiletter control sequences out of 15000+600000
+ 7075 strings out of 493307
+ 99957 string characters out of 6139905
+ 200570 words of memory out of 5000000
+ 10284 multiletter control sequences out of 15000+600000
  51403 words of font info for 122 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,10n,28p,2503b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,10n,28p,2469b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -700,10 +675,10 @@ bol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on apweb2014.pdf (13 pages, 364906 bytes).
+Output written on apweb2014.pdf (12 pages, 362712 bytes).
 PDF statistics:
- 385 PDF objects out of 1000 (max. 8388607)
- 299 compressed objects within 3 object streams
- 92 named destinations out of 1000 (max. 500000)
+ 378 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
+ 90 named destinations out of 1000 (max. 500000)
  149 words of extra memory for PDF output out of 10000 (max. 10000000)
 
