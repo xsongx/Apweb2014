@@ -51,7 +51,7 @@
 \mainmatter  % start of an individual contribution
 
 % first the title is needed
-\title{Integrating Topic Related Opinions of Users on Social Media: A Separate Way}
+\title{Topic Related Opinion Integration for Users of Social Media：A Separated Way}
 
 % a short form should be given in case it is too long for the running head
 %\titlerunning{Lecture Notes in Computer Science: Authors' Instructions}
@@ -62,12 +62,13 @@
 % their surnames. This ensures that the names appear correctly in
 % the running heads and the author index.
 %
-\author{Xie Songxian%
+\author{Xie Songxian
 %\thanks{Please note that the LNCS Editorial assumes that all authors have used
 %the western naming convention, with given names preceding surnames. This determines
 %the structure of the names in the running heads and the author index.}%
-\and Tang Jintao\and Wang Ting}
-%
+\and Tang Jintao\and Wang Ting
+}
+
 %\authorrunning{Lecture Notes in Computer Science: Authors' Instructions}
 % (feature abused for this document to repeat the title also on left hand pages)
 
@@ -75,7 +76,8 @@
 % unless you accept that it will be published
 \institute{School of Computer Science, National University of Defense Technology,\\
 Yanwachi Street of Changsha, Hunan, China, 410073\\
-\mailsa\\}
+\mailsa\\
+}
 %\mailsb\\
 %\mailsc\\
 %\url{http://www.nudt.edu.cn}}
@@ -93,7 +95,7 @@ Yanwachi Street of Changsha, Hunan, China, 410073\\
 
 
 \begin{abstract}
-Social media such as Twitter, has enabled more and more people to express their opinions on the web freely, making it an extremely valuable source for mining opinions of users about all kinds of topics. In this paper we study how to automatically integrate topic related opinions expressed by a user in not so well-written User-Generated Content (UGC). We propose a Subjectivity Model by combining topics a user talks about and his opinions towards these topics. There have been several generative topic-sentiment mixture models designed to capture sentiments and topics in text simultaneously. In constrast to generatvie models, we construct our model with LDA topic model and sentiment analysis techniques in a separate way. We compare our model and generative models in a series of experiments on Twitter data. Results show that the proposed model is effective and can generate useful aligned integrated opinion summaries of users. Futhermore, the proposed model is more suitable for social media context, thus can catch more fine-grain opinions than generative models and get better performance in a link prediction task. 
+Social media such as Twitter, has enabled more and more people to express their opinions on the internet easily, making it an extremely valuable source for mining opinions of users about all kinds of topics. In this paper we study how to automatically integrate topic related opinions expressed by a user in not so well-written User-Generated Content (UGC). We propose a subjectivity model by combining topics a user talks about and his fine-grained opinion towards each topic and design an efficient algorithm to construct the model with LDA topic model and sentiment analysis techniques simultaneously. We verify the effectiveness of our model qualitatively and quantitatively in a series of experiments on real Twitter data. Results show that the proposed model is effective and can generate useful aligned integrated opinion summaries of users. Futhermore, the proposed model is more suitable for social media context, thus can catch more fine-grain opinions than generative models and get better performance in a opinion prediction task. 
 \keywords{generative model, social media, opinion mining, Subjectivity Model}
 \end{abstract}
 

@@ -1,0 +1,32 @@
+Reviews For Paper
+Paper ID	121
+Title	Topic Related Opinion Integration for Users of Social Media：A Separated Way
+
+Reviewer_1#:
+This paper deals with the opinion integration problem. 
+Authors propose a Subjectivity Model to integrate both topics of interest distribution of users and the distribution
+of opinions towards these topics. Both of distributions are computed from past contents of users.
+An integrated opinion summary is generated automatically.
+Subjectivity Model is established by identifying topics and opinions in an unsupervised way.
+Negative point: The formalization and validation of the proposed model are not completely sufficient.
+
+Reviewer_2#:
+The authors propose integrating user's opinions on different topics in streams of tweets. They tested their proposal against generative models that join topics and sentiments.
+The paper is in general well-written and the authors make a good survey of existing approaches and correctly motivate their research. The idea of Opinion Integration Problem is good and problem is interesting.
+Minor comments:
+-the name "two-parts" model sounds bit strange (maybe "two-stage model" would be better). Actually in Introduction the authors mention three stages.
+-change to "when he is using social media." in section 3
+-remove "and" from "tweets talk about and should" in page 4
+-add leading verb in the last sentence of sec. 4.1
+-change to "established framework" in sec 4.2
+-change to "we can make concrete Subjectivity Model" on page 6
+-change "We" to lowercase at last sentence of sec 4.3
+-change to "and gets a little better" in page 10
+
+Reviewer_3#
+The paper proposes a subjectivity model to represent users' sentiment distribution over different topics based on twitter.
+1. It studies a practically interesting problem.
+2. The proposed subjectivity model is reasonable.
+3. Use real dataset for evaluation.
+4.The SentiStrength package you use is for analyzing short informal text of social media. When you combined the tweets of a user into a single document, the document is no longer short. Will this affect the application/effectiveness of this system? You also mention 1 as neutral and [1, 5] as positive, seem to contradict each other.
+5.There are quite a few typos in the last several pages of the paper.
